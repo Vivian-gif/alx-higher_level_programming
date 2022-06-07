@@ -6,13 +6,13 @@ if __name__ == "__main__":
     if i == 0:
         print("{} arguments.".format(i))
     elif i == 1:
-        print("{} argument:".formmat(i))
+        print("{} argument:".formarg in sys.argv:
+            if i != 0:
+          at(i))
+    else:
+        print("{} arguments:".format(i))
 
     if i >= 1:
         i = 0
-        for at(i))
-    else:
-        print("{} arguments:".forarg in sys.argv:
-            if i != 0:
-                print("{}: {}".format(i, arg))
+        for       print("{}: {}".format(i, arg))
             i += 1
